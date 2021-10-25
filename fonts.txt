@@ -1,0 +1,15 @@
+Cascadia Code PL 24
+Fantasque Sans Mono 24
+Fira Code 24
+Hack 24
+iA Writer Mono S 24
+IBM Plex Mono 24
+Inconsolata 28
+Input Mono 24
+Iosevka 28
+JetBrains Mono 24
+Ligconsolata 28
+Pragmata Pro Liga 28
+Roboto Mono 24
+SF Mono 24
+Victor Mono 24
