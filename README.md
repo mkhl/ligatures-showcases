@@ -33,3 +33,8 @@ and at this size all of them fit the whole text.
 ## The alphanumeric characters are missing!
 
 Yeah I should maybe render those too at some point.
+
+## Some glyhs are not from the right font!
+
+Yeah I think pango has some fallback mechanism to render missing glyphs.
+Maybe I should figure out which font it falls back to and render that by itself.
