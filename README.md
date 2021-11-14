@@ -38,3 +38,7 @@ Yeah I should maybe render those too at some point.
 
 Yeah I think pango has some fallback mechanism to render missing glyphs.
 Maybe I should figure out which font it falls back to and render that by itself.
+
+## Some of these fonts don't even have ligatures!
+
+Yeah, and don't they still look gorgeous‽
