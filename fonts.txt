@@ -1,4 +1,5 @@
 Cascadia Code PL 24
+DejaVu Sans Mono 24
 Fantasque Sans Mono 24
 Fira Code 24
 Hack 24
@@ -9,6 +10,7 @@ Input Mono 24
 Iosevka 28
 JetBrains Mono 24
 Ligconsolata 28
+Overpass Mono 24
 Pragmata Pro Liga 28
 Roboto Mono 24
 SF Mono 24
