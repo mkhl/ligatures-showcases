@@ -9,6 +9,7 @@ Inconsolata 28
 Input Mono 24
 Iosevka 28
 JetBrains Mono 24
+JuliaMono 24
 Ligconsolata 28
 Overpass Mono 24
 Pragmata Pro Liga 28
