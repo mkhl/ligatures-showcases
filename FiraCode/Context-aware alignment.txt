@@ -1,0 +1,5 @@
+fii fjj
+a*b a*A B*b A*B *a *A a* A*
+a-b a-A B-b A-B -a -A a- A-
+a+b a+A B+b A+B +a +A a+ A+
+a:b a:A B:b A:B :a :A a: A:
