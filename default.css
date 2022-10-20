@@ -1,6 +1,16 @@
 main {
-	max-width: 70ch;
 	padding: 2ch;
 	margin: auto;
 	line-height: 1.5;
+}
+
+section {
+	display: grid;
+	grid: repeat(10, minmax(80px, 1fr)) / auto-flow;
+	grid-gap: 8px;
+}
+
+section img {
+	max-width: 80px;
+	max-height: 80px;
 }
