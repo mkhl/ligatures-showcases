@@ -1,5 +1,6 @@
 Cascadia Code PL
 CamingoCode
+Cousine
 DejaVu Sans Mono
 Fantasque Sans Mono
 Fira Code
@@ -9,15 +10,17 @@ IBM Plex Mono
 Inconsolata
 Input Mono
 Iosevka
-Iosevka Extended
+# Iosevka Extended
 JetBrains Mono
 JuliaMono
+Lilex
 Noto Sans Mono
 Overpass Mono
 Pragmata Pro Liga
-Pragmata Pro Mono Liga
+# Pragmata Pro Mono Liga
 Rec Mono Linear
 Rec Mono Casual
+RedHat Mono
 Roboto Mono
 Sometype Mono
 Source Code Pro
