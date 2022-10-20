@@ -1,0 +1,10 @@
+Iosevka/Variants à la Carte.txt
+Iosevka/Coding Ligations.txt
+Iosevka/Code and Terminal.txt
+FiraCode/Unicode.txt
+FiraCode/Ligatures.txt
+FiraCode/Multi-line brackets.txt
+FiraCode/Context-aware alignment.txt
+FiraCode/Box drawing.txt
+FiraCode/Underscore lines.txt
+FiraCode/Progress bars.txt
