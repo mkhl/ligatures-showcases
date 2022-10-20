@@ -1,5 +1,7 @@
 #!/bin/sh
-TXT=upstream/FiraCode/extras/showcases.txt
-redo-ifchange render "$TXT"
-./render "$2" < "$TXT" > "$3"
+FONT=${2%%/*}
+TEXT=${2#*/}.txt
+mkdir -p "$(dirname -- "$1")"
+redo-ifchange render "$TEXT"
+./render "$FONT" < "$TEXT" > "$3"
 optipng -quiet "$3"
