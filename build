@@ -1,0 +1,32 @@
+#!/bin/bash
+
+images() {
+	for dir in */Iosevka; do
+		font="$(dirname "$dir")"
+		for alt in "$font"/{"Iosevka/Variants à la Carte","Iosevka/Coding Ligations","Iosevka/Code and Terminal","FiraCode/Unicode","FiraCode/Ligatures","FiraCode/Multi-line brackets","FiraCode/Context-aware alignment","FiraCode/Box drawing","FiraCode/Underscore lines","FiraCode/Progress bars"}; do
+			src="$alt.png"
+			cat <<-HTML
+				        <a title="$alt" href="$src"><img src="$src" alt="$alt"></a>
+			HTML
+		done
+	done
+}
+
+cat <<-HTML
+	<!doctype html>
+	<html lang=en>
+	  <head>
+	    <meta charset=utf-8>
+	    <link rel=stylesheet href=default.css>
+	    <title>Ligatures Showcases</title>
+	  </head>
+	  <body>
+	    <main>
+	      <h1>Ligatures Showcases</h1>
+	      <section>
+	$(images)
+	      </section>
+	    </main>
+	  </body>
+	</html>
+HTML
