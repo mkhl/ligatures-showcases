@@ -3,5 +3,5 @@ FONT=${2%%/*}
 TEXT=${2#*/}.txt
 mkdir -p "$(dirname -- "$1")"
 redo-ifchange render "$TEXT"
-./render "$FONT" < "$TEXT" > "$3"
+./render "$3" "$FONT" <"$TEXT"
 optipng -quiet "$3"
