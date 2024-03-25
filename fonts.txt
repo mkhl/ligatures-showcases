@@ -1,28 +1,37 @@
-Cascadia Code PL
+0xProto
+Berkeley Mono
 CamingoCode
+Cascadia Code PL
+CommitMono
+Courier Prime
 Cousine
 DejaVu Sans Mono
+DMCA Sans Serif
+Droid Sans Mono
 Fantasque Sans Mono
 Fira Code
+Geist Mono
 Hack
-# iA Writer Mono S
+iA Writer Mono S
 IBM Plex Mono
 Inconsolata
 Input Mono
+Intel One Mono
 Iosevka
-# Iosevka Extended
 JetBrains Mono
 JuliaMono
-Lilex
-Noto Sans Mono
-Overpass Mono
-Pragmata Pro Liga
-# Pragmata Pro Mono Liga
-Rec Mono Linear
+League Mono
+Liberation Mono
+Maple Mono
+Martian Mono
+Monoid
+PragmataPro Mono Liga
 Rec Mono Casual
-RedHat Mono
+Rec Mono Linear
+Red Hat Mono
 Roboto Mono
+SF Mono
 Sometype Mono
 Source Code Pro
-SF Mono
+Twilio Sans Mono
 Victor Mono
